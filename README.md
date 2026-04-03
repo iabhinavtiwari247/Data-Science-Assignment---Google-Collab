@@ -87,7 +87,7 @@ This Jupyter Notebook contains solutions to **Data Science Assignment 2** coveri
 ## 👨‍💻 Author
 
 **Abhinav Tiwari**  
-Data Science Student  
+Just a Data Science Learner 
 *Passionate about Python, Pandas & Data Analysis*
 
 ---
